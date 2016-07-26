@@ -10,7 +10,11 @@ Build an open source, industrial-quality aquaponics automation system in Swift f
 
 ## Motivation
 
-Describe the problems that this proposal seeks to address. 
+__Describe the problems that this proposal seeks to address.__
+Low technified food-production that drives to low job and life quality
+Local farmers are in disadvantage with farmers from developed countries
+Engineers and technicians are now aware about rural conditions, culture, potential and motivations.
+Engineers and technicians have not explored new perspectives in the rural context.
 
 ## Proposed solution
 

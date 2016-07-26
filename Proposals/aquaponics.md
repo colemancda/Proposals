@@ -16,7 +16,8 @@ Build an open source, industrial-quality aquaponics automation system in Swift f
 
 ## Proposed solution
 
-Build an open source, industrial-quality aquaponics automation system in Swift for Linux on ARM.
+- Build an open source, industrial-quality aquaponics automation system in Swift for Linux on ARM.
+- Produce technology apropiation by farmers. Motivate and support discussion around this solution to generate improvement by themselves and new technical challenges for technology developers.
 
 ## Detailed design
 
@@ -30,3 +31,4 @@ Describe the impact that this proposal will have.
 
 Describe alternative approaches to addressing the same problem, and
 why you chose this approach instead.
+

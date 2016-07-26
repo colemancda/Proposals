@@ -16,9 +16,7 @@ Build an open source, industrial-quality aquaponics automation system in Swift f
 
 ## Proposed solution
 
-Describe your solution to the problem. Provide examples and describe
-how they work. Show how your solution is better than current
-workarounds: is it cleaner, safer, or more efficient?
+Build an open source, industrial-quality aquaponics automation system in Swift for Linux on ARM.
 
 ## Detailed design
 

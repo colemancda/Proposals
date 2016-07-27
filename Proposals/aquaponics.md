@@ -24,6 +24,7 @@ Build an open source, industrial-quality aquaponics automation system in Swift f
 - Orange Pi One, Linux ARM board ([AliExpress](http://www.aliexpress.com/item/Orange-Pi-One-ubuntu-linux-and-android-mini-PC-Beyond-and-Compatible-with-Raspberry-Pi-2/32603308880.html?spm=2114.01010208.3.2.0CtZKF&ws_ab_test=searchweb201556_0,searchweb201602_4_10057_10056_10055_10037_10049_10033_10059_10032_10058_10017_405_404_10040_10060,searchweb201603_6&btsid=af21b1ac-1218-4ebe-832f-7913e6c17283))
 - Water Pump Relay
 - Analog PH Sensor ([AliExpress](http://www.aliexpress.com/item/freeshipping-new-avr-Open-Source-PH-Sensor-Simulation-PH-Meter-shield-adapter-for-arduino-uno-r3/32623420605.html?spm=2114.01010208.3.2.jMvOpL&ws_ab_test=searchweb201556_0,searchweb201602_4_10057_10056_10055_10037_10049_10033_10059_10032_10058_10017_405_404_10040_10060,searchweb201603_6&btsid=9b9863bd-59a9-48b8-a427-5c43f72cf45f), [DFRobot](http://www.dfrobot.com/index.php?route=product/product&product_id=1025#.V5b_ECWZO2w))
+- DS18B20 Water Temperature Probe ([AliExpress](http://www.aliexpress.com/item/Free-Shipping-1pcs-DS18B20-Stainless-steel-package-1-meters-waterproof-DS18b20-temperature-probe-temperature-sensor-18B20/2036115885.html?spm=2114.10010108.0.224.EFexw3&scm=1007.12908.39582.0&pvid=52a61502-0a1b-455e-a0b1-870a2a4bf49b&tpp=1), [SparkFun](https://www.sparkfun.com/products/11050))
 
 
 ## Impact
